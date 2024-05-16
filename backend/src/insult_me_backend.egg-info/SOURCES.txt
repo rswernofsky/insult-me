@@ -1,0 +1,8 @@
+pyproject.toml
+src/__init__.py
+src/server.py
+src/insult_me_backend.egg-info/PKG-INFO
+src/insult_me_backend.egg-info/SOURCES.txt
+src/insult_me_backend.egg-info/dependency_links.txt
+src/insult_me_backend.egg-info/requires.txt
+src/insult_me_backend.egg-info/top_level.txt
